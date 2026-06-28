@@ -222,4 +222,3 @@ export default function App() {
     </div>
   );
 }
-// NOTE: normalizeTerm is imported at top — see below
